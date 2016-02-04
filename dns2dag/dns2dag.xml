@@ -1,0 +1,11 @@
+
+	<uid-message>
+	<version>1.0</version>
+	<type>update</type>
+	<payload>
+		<register>
+			<entry identifier="my dag object" ip="52.11.16.5"/>        
+		</register>            
+	</payload>  
+	</uid-message>
+	
